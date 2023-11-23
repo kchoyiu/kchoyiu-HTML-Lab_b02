@@ -1,0 +1,74 @@
+*{
+    background: white;
+}
+.keyboard-container{
+   display: flex;
+
+
+}
+.white-key{
+    background-color: white;
+    width: 50px;
+    height:150px;
+}
+.white-key2{
+    background-color: white;
+    width: 50px;
+    height:150px;
+}
+.white-key3{
+    background-color: white;
+    width: 50px;
+    height:150px;
+}
+.white-key4{
+
+    background-color: white;
+    width: 50px;
+    height:150px;
+}
+.white-key5{
+    background-color: white;
+    width: 50px;
+    height:150px;
+}
+.white-key6{
+    background-color: white;
+    width: 50px;
+    height:150px;
+}
+.white-key7{
+    background-color: white;
+    width: 50px;
+    height:150px;
+}
+.white-key8{
+    background-color: white;
+    width: 50px;
+    height:150px;
+}
+.black-key{
+    background-color: black;
+    width:25px;
+    height:90px;
+}
+.black-key2{
+    background-color: black;
+    width:25px;
+    height:90px;
+}
+.black-key3{
+    background-color: black;
+    width:25px;
+    height:90px;
+}
+.black-key4{
+    background-color: black;
+    width:25px;
+    height:90px;
+}
+.black-key5{
+    background-color: black;
+    width:25px;
+    height:90px;
+}
